@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "chupakabriolet",
+  "mongoUri": "mongodb+srv://pahamaster:lililyo136@cluster0.jyvc7.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
